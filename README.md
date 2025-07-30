@@ -28,3 +28,7 @@ Y, al igual que con R, es importante descargar la versión de RStudio que sea af
 Aquí comparto una guía de como descargar e instalar R y RStudio. 
 
 https://rstudio-education.github.io/hopr/starting.html
+
+Y, un pequeño video tutorial de cómo descargar R y Rstudio:
+
+https://www.youtube.com/watch?v=hbgzW3Cvda4
