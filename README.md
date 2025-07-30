@@ -21,7 +21,8 @@ https://cran.r-project.org/
 
 ### ¿Cómo descargar RStudio?
 
-RStudio también es de libre acceso, es decir gratuito. Y también se descarga por medio de la pagína https://posit.co/products/open-source/rstudio/?sid=1 .
+RStudio también es de libre acceso, es decir gratuito.
+RStudio se descarga por medio de la página https://posit.co/products/open-source/rstudio/?sid=1 .
 
 Y, al igual que con R, es importante descargar la versión de RStudio que sea afín a tu computadora. 
 Aquí comparto una guía de como descargar e instalar R y RStudio. 
