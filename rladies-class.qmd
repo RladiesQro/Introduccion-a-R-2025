@@ -51,7 +51,7 @@ library(ggpubr)
 source("/Users/hiromikameyama/Documents/github/Rladies-class/eda_funciones.R")
 ```
 
-![](/Users/hiromikameyama/Documents/github/Rladies-class/datos/conjunto_de_datos_enasem_2021_csv/indice.png)
+![](/Users/hiromikameyama/Documents/github/Rladies-class/datos/indice.png)
 
 ### 2. Cargar Datos Maestros
 
